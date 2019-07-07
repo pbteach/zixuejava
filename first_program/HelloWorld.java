@@ -2,6 +2,6 @@ class HelloWorld
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello World ÅÊ²©Íøwww.pbteach.com!");
+		System.out.println("Hello World æ”€åšç½‘www.pbteach.com!");
 	}
 }
